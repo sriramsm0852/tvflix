@@ -1,6 +1,6 @@
 Tvflix
 
-Tvflix is a popular movie app made by codewithsadee.
+Tvflix is a popular movie app made by sriram.
 
 
 
